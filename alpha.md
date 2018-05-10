@@ -1,5 +1,4 @@
-Soubor alpha
-============
+﻿
 
 Lorem Ipsum je demonstrativní výplňový text používaný v tiskařském a
 knihařském průmyslu. Lorem Ipsum je považováno za standard v této
